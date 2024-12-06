@@ -1,5 +1,7 @@
 # FlappyBird Game Documentation
 
+<img src="image.png" alt="alt text" width="500"/>
+
 ## Prerequisites
 
 1. **.NET SDK**: Ensure you have the .NET SDK installed. You can download it from [here](https://dotnet.microsoft.com/download).
