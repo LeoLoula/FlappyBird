@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ltlou\\OneDrive\\Desktop\\Programming paradigm\\FlappyBird\\FlappyBird.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ltlou\\OneDrive\\Desktop\\Programming paradigm\\FlappyBird\\FlappyBird.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ltlou\\OneDrive\\Desktop\\Programming paradigm\\FlappyBird\\FlappyBird.fsproj",
+        "projectName": "FlappyBird",
+        "projectPath": "C:\\Users\\ltlou\\OneDrive\\Desktop\\Programming paradigm\\FlappyBird\\FlappyBird.fsproj",
+        "packagesPath": "C:\\Users\\ltlou\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ltlou\\OneDrive\\Desktop\\Programming paradigm\\FlappyBird\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ltlou\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\8.0.403\\FSharp\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[8.0.401, )",
+              "generatePathProperty": true
+            },
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.2.1105, )",
+              "generatePathProperty": true
+            },
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.2.1105, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

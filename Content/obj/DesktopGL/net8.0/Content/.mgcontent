@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>HiDef</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/bird-upflap.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/bird-downflap.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/bird-midflap.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/pipe-green.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/background.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/base.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/gameover.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/message.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/0.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/1.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/2.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/3.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/4.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/5.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/6.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/7.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/8.png</File>
+    <File>c:/Users/ltlou/OneDrive/Desktop/Programming paradigm/FlappyBird/Content/png/9.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
